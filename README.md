@@ -1,11 +1,35 @@
-# # Hi, I'm Baran 👋
+# Hi, I'm Baran 👋
 
-I am a high school IT student.
-I develop applications using C# and I am learning web development.
+I am a 17 year old IT high school student
+
+# About Me
+-------------
+I develop applications using C#
+I learning web development
+I want to improve myself and work on real projects
+
+# Code Languages
+------------------
+C#
+SQL
+HTML (learning)
+CSS (learning)
 
 ---
 
-# Merhaba, ben Baran 👋
+# Merhaba, Ben Baran 👋
 
-Bilişim alanında okuyan bir meslek lisesi öğrencisiyim.
-C# ile uygulamalar geliştiriyorum ve web tasarımı öğreniyorum.
+17 yaşında bilişim meslek lisesi öğrencisiyim
+
+# Hakkımda
+-------------
+C# kullanarak uygulamalar geliştiriyorum  
+Web Tasarımı alanında kendimi geliştiriyorum
+Kendimi geliştirmek ve gerçek projelerde çalışmayı hedefliyorum  
+
+# Bildiğim Diller
+------------------
+C#
+SQL 
+HTML (öğreniyorum)
+CSS (öğreniyorum)
