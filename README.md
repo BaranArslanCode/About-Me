@@ -4,9 +4,9 @@ I am a 17 year old IT high school student
 
 # About Me
 -------------
-I develop applications using C#
-I learning web development
-I want to improve myself and work on real projects
+I develop applications using C#,
+I learning web development,
+I want to improve myself and work on real projects.
 
 # Code Languages
 ------------------
@@ -23,9 +23,9 @@ CSS (learning)
 
 # Hakkımda
 -------------
-C# kullanarak uygulamalar geliştiriyorum
-Web Tasarımı alanında kendimi geliştiriyorum
-Kendimi geliştirerek gerçek projelerde yer almayı hedefliyorum
+C# kullanarak uygulamalar geliştiriyorum,
+Web Tasarımı alanında kendimi geliştiriyorum,
+Kendimi geliştirerek gerçek projelerde yer almayı hedefliyorum.
 
 # Bildiğim Diller
 ------------------
