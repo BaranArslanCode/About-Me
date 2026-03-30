@@ -23,9 +23,9 @@ CSS (learning)
 
 # Hakkımda
 -------------
-C# kullanarak uygulamalar geliştiriyorum  
-Web Tasarımı alanında kendimi geliştiriyorum
-Kendimi geliştirmek ve gerçek projelerde çalışmayı hedefliyorum  
+C# kullanarak uygulamalar geliştiriyorum
+Web Tasarımı alanında kendimi geliştiriyorum 
+Kendimi geliştirmek ve gerçek projelerde çalışmayı hedefliyorum
 
 # Bildiğim Diller
 ------------------
