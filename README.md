@@ -11,7 +11,7 @@ I want to improve myself and work on real projects
 # Code Languages
 ------------------
 C#<br>
-SQL<br>
+MySQL<br>
 HTML (learning)<br>
 CSS (learning)
 
@@ -30,6 +30,6 @@ Kendimi geliştirerek gerçek projelerde yer almayı hedefliyorum
 # Bildiğim Diller
 ------------------
 C#<br>
-SQL<br>
+MySQL<br>
 HTML (öğreniyorum)<br>
 CSS (öğreniyorum)
